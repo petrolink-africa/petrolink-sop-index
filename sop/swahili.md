@@ -1,1 +1,1 @@
-Add swahili SOP for contributor onboarding
+Add Swahili SOP for contributor onboarding
